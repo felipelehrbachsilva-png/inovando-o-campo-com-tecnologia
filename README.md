@@ -7,7 +7,7 @@ Este projeto foi desenvolvido para o **Programa Agrinho**, com o objetivo de exp
 
 ---
 
-## 🌾 A Revolução Digital no Campo: Produtividade e Regeneração (Artigo Principal)
+## 🌾 A Revolução Digital no Campo: Produtividade e Regeneração
 
 A união entre a agricultura e as ferramentas digitais — conhecida como Agricultura 4.0 — representa a principal solução global para produzir mais alimentos reduzindo os impactos ecológicos. Essa transformação ocorre por meio do uso estratégico de dados, sensores e automação, focando simultaneamente na regeneração ambiental e no ganho de produtividade.
 
